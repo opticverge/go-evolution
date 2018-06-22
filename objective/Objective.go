@@ -1,7 +1,7 @@
 package objective
 
 // Objective is a type which defines whether an optimiser is solving a
-// maximisation, minimisation or multiobjective problem
+// maximisation or minimisation
 type Objective string
 
 const (
